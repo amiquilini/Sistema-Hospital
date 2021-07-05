@@ -41,4 +41,3 @@ class Tratamento implements Solicitacao {
         return custoTotal;
     }
 }
-
